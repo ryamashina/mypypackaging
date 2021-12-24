@@ -1,7 +1,7 @@
 #import unittest
 import pytest
 import seaborn as sns 
-from divepackaging.hello import main
+from mypypackaging.hello import main
 
 
 @pytest.fixture
