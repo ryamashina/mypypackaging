@@ -1,0 +1,4 @@
+# mypypackaging
+
+python packaging template.
+
